@@ -7,8 +7,8 @@ Hey, I am Nihal M, a passionate electronics and robotics enthusiast, currently p
 The journey began when I bought a mechanical keyboard from Cosmic Byte. At that time, it was the cheapest mechanical keyboard on the market, priced at around 1500 rupees. It worked perfectly for the first 3–4 months, but soon some of the backlights stopped working. I didn’t mind at first since it was just a few LEDs, but over time, more and more LEDs failed. Eventually, after a few months, some of the rows in the keyboard stopped working completely. It was frustrating because I hadn’t even used it that much.
 <br><br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9019b8a9-4e3b-443c-a23e-6e6339165102" alt="Description" width="300" align="center" style="border: 5px solid black;">
-<img src="https://github.com/user-attachments/assets/6272477c-62c3-4bc5-abbf-f4aee77164d7" alt="Description" width="300" align="center" style="border: 5px solid black;" >
+  <img src="https://github.com/user-attachments/assets/9019b8a9-4e3b-443c-a23e-6e6339165102" alt="Description" width="250" align="center" style="border: 5px solid black;">
+<img src="https://github.com/user-attachments/assets/6272477c-62c3-4bc5-abbf-f4aee77164d7" alt="Description" width="250" align="center" style="border: 5px solid black;" >
 </div>
 
 <br><br>
@@ -65,7 +65,7 @@ After multiple failed attempts to debug the code, I decided to test the circuit 
 
 <br><br>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/e3766984-9dbd-4920-a8b5-aeb3ce642eeb" alt="Description" width="300" align="center"  >
+<img src="https://github.com/user-attachments/assets/e3766984-9dbd-4920-a8b5-aeb3ce642eeb" alt="Description" width="250" align="center"  >
 </div>
 
 <div align="center">
@@ -77,7 +77,7 @@ After all, I tried to enclose the circuit inside the existing keyboard, but unfo
 
 <br><br>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d842f224-8008-409d-aa8f-015b2fec44c4" alt="Description" width="300" align="center"  >
+<img src="https://github.com/user-attachments/assets/d842f224-8008-409d-aa8f-015b2fec44c4" alt="Description" width="250" align="center"  >
 </div>
 
 <br><br>
@@ -115,8 +115,8 @@ Building my own mechanical keyboard was an incredible journey. I not only learne
 
 <br><br>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6376d397-f91c-4fd2-ae17-7311b4ed0778" alt="Description" width="300" align="center"  >
-<img src="https://github.com/user-attachments/assets/f91ffd4c-3037-4527-8609-d6b2f6c2f388" alt="Description" width="300" align="center"  >
+<img src="https://github.com/user-attachments/assets/6376d397-f91c-4fd2-ae17-7311b4ed0778" alt="Description" width="250" align="center"  >
+<img src="https://github.com/user-attachments/assets/f91ffd4c-3037-4527-8609-d6b2f6c2f388" alt="Description" width="250" align="center"  >
 </div>
 <br><br>
 

@@ -112,7 +112,7 @@ KMK doc: https://kmkfw.io/
 # Conclusion
 
 Building my own mechanical keyboard was an incredible journey. I not only learned how keyboards work, but also improved my electronics, circuit design, and coding skills. From troubleshooting hardware issues to learning how to use KMK firmware, every step was a learning experience.I am also planning to dd some more features like rotary encoder and some RGB backlights.
-
+I faced several challenges, from wiring the matrix correctly to debugging key issues, but each problem taught me something new. After a lot of soldering, coding, and testing, I finally got my custom keyboard up and running! 😍
 <br><br>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6376d397-f91c-4fd2-ae17-7311b4ed0778" alt="Description" width="250" align="center"  >
@@ -123,4 +123,7 @@ Building my own mechanical keyboard was an incredible journey. I not only learne
 Now, every time I type on my custom-built keyboard, it feels special—because I built it from scratch!
 Also i uploaded a video on instagram of the whole building process : https://www.instagram.com/reel/DGpS0-LylXu/?igsh=MWlzc3dkNzN5cDMxZA==
 
+
+<div align="center">
 Thank You
+</div>

@@ -40,6 +40,7 @@ But I still had some doubts—like which microcontroller to use because there ar
 Discord Link:https://discord.com/invite/ctYr5BVF7b
 </div>
 
+Also if you are planning a full keyboard without hand soldering there are so many tools and it tutorials on youtube where you can easily design and print you own pcb.
 
 # Building the Circuit
 
@@ -73,7 +74,7 @@ Macropad made for testing
 </div>
 <br><br>
 
-After all, I tried to enclose the circuit inside the existing keyboard, but unfortunately, it didn’t fit, so I just placed the circuit outside.
+After all, I tried to enclose the circuit inside the existing keyboard, but unfortunately, it didn’t fit, so I just placed the circuit outside.So here i used my old keyboard frame if haven't you can easily make one by 3D printing. 
 
 <br><br>
 <div align="center">
@@ -126,4 +127,5 @@ Also i uploaded a video on instagram of the whole building process : https://www
 
 <div align="center">
 Thank You
+  And feel free to contact me if you have any doubts and queries
 </div>
